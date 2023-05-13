@@ -5,8 +5,11 @@ This is my basic ricing of Arch Linux. It has basic features like tab drag and d
 This is a picture of my applets I had collected on my modified polybar.
 ![image](https://github.com/mazinouruk/forest_arch_rice/assets/62123507/78c20185-dff1-4697-b234-7ee28ced6503)
 
-Opening new tabs with a custom Tiling manager- AwesomeWM
+Opening new tabs with a custom Tiling manager- AwesomeWM with sloppy focus
 ![image](https://github.com/mazinouruk/forest_arch_rice/assets/62123507/6e9d6308-500a-4a76-8b66-5d0d24d55729)
+
+AwesomeWM has some addons, like the windows button now being able to drag and move tabs.
+I am using dbar instead of the basic titlebar because of aesthetics and the autofill's similarity to Macbook's spotlight.
 
 This is my rice setup, showing my specs and some random things
 !![2023-05-13_00-04](https://github.com/mazinouruk/forest_arch_rice/assets/62123507/e488e871-d8ed-40de-9296-cfaeb679807e)
