@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/aatrox/Desktop" added="2023-04-15T03:13:30.095159Z" modified="2023-05-13T04:16:51.316114Z" visited="2023-04-15T03:13:30.095161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:16:51.316112Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox" added="2023-04-15T03:13:30.999987Z" modified="2023-05-13T04:16:48.871497Z" visited="2023-04-15T03:13:30.999988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:16:48.871494Z" count="27"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads/750431.png" added="2023-04-15T03:18:38.790766Z" modified="2023-04-15T03:18:38.790776Z" visited="2023-04-15T03:18:38.790767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-15T03:18:38.790771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads" added="2023-04-15T03:19:22.652640Z" modified="2023-05-13T03:53:38.951730Z" visited="2023-04-15T03:19:22.652641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:53:38.951727Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Pictures" added="2023-04-15T03:19:40.687594Z" modified="2023-04-15T22:40:49.996263Z" visited="2023-04-15T03:19:40.687595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:40:49.996260Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Pictures/wallpapers" added="2023-04-15T03:19:59.604300Z" modified="2023-04-15T22:40:50.831674Z" visited="2023-04-15T03:19:59.604301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:40:50.831672Z" count="8"/>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2023-04-15T03:22:17.688983Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads/792503.jpg" added="2023-04-15T03:21:47.821872Z" modified="2023-04-15T03:21:47.821879Z" visited="2023-04-15T03:21:47.821873Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-15T03:21:47.821875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads/wp8009307-anime-1366x768-wallpapers.jpg" added="2023-04-15T03:23:44.795821Z" modified="2023-04-15T03:23:44.795830Z" visited="2023-04-15T03:23:44.795823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-04-15T03:23:44.795826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/awesome/rc.lua" added="2023-04-15T04:41:45.922069Z" modified="2023-05-13T03:48:22.841927Z" visited="2023-04-15T04:41:45.922070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-05-13T03:48:22.841924Z" count="30"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/kitty/kitty.conf" added="2023-04-15T04:56:37.895113Z" modified="2023-04-15T04:58:26.154407Z" visited="2023-04-15T04:56:37.895113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-15T04:58:26.154404Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/polybar/config.ini" added="2023-04-15T05:01:48.591937Z" modified="2023-04-15T21:49:49.311100Z" visited="2023-04-15T05:01:48.591938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-15T21:49:49.311098Z" count="35"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/polybar/launch.sh" added="2023-04-15T05:11:06.223300Z" modified="2023-04-15T05:15:43.176912Z" visited="2023-04-15T05:11:06.223301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-15T05:15:43.176910Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/polybar/pLaunch.sh" added="2023-04-15T05:16:05.609230Z" modified="2023-04-15T05:19:25.505358Z" visited="2023-04-15T05:16:05.609230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-15T05:19:25.505355Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-04-15T22:28:56.338749Z" modified="2023-05-13T04:10:24.331216Z" visited="2023-04-15T22:28:56.338750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:10:24.331213Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr" added="2023-04-15T22:29:00.027351Z" modified="2023-04-20T05:39:18.734378Z" visited="2023-04-15T22:29:00.027352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:39:18.734375Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share" added="2023-04-15T22:29:01.995848Z" modified="2023-04-15T23:11:49.835661Z" visited="2023-04-15T22:29:01.995849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T23:11:49.835658Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/awesome" added="2023-04-15T22:29:06.717732Z" modified="2023-04-15T22:29:48.444477Z" visited="2023-04-15T22:29:06.717733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:29:48.444474Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/awesome/themes" added="2023-04-15T22:29:07.998226Z" modified="2023-04-15T22:29:50.153723Z" visited="2023-04-15T22:29:07.998227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:29:50.153720Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/awesome/themes/default" added="2023-04-15T22:29:12.030285Z" modified="2023-04-15T22:29:53.259746Z" visited="2023-04-15T22:29:12.030286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:29:53.259743Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/src" added="2023-04-15T22:29:43.471182Z" modified="2023-04-15T22:29:43.471186Z" visited="2023-04-15T22:29:43.471183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T22:29:43.471184Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/awesome/themes/default/theme.lua" added="2023-04-15T22:30:02.555154Z" modified="2023-04-15T22:32:32.490299Z" visited="2023-04-15T22:30:02.555155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-15T22:32:32.490297Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications" added="2023-04-15T23:12:56.354435Z" modified="2023-04-15T23:12:56.354441Z" visited="2023-04-15T23:12:56.354437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T23:12:56.354438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/applications/org.kde.kmix.desktop" added="2023-04-15T23:13:50.774641Z" modified="2023-04-15T23:13:50.774688Z" visited="2023-04-15T23:13:50.774643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-15T23:13:50.774687Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/usb-hub" added="2023-04-20T01:35:47.102088Z" modified="2023-04-20T01:35:47.102093Z" visited="2023-04-20T01:35:47.102089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T01:35:47.102091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/aatrox/T7/SamsungPortableSSD_Setup_Win_1.0.exe" added="2023-04-20T01:42:18.652169Z" modified="2023-04-20T01:42:18.652176Z" visited="2023-04-20T01:42:18.652170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T01:42:18.652172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/aatrox/T7/Samsung%20Portable%20SSD%20SW%20for%20Android.txt" added="2023-04-20T01:44:41.828923Z" modified="2023-04-20T01:46:31.250228Z" visited="2023-04-20T01:44:41.828924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-04-20T01:46:31.250226Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///boot" added="2023-04-20T05:38:42.311447Z" modified="2023-04-20T05:38:42.311459Z" visited="2023-04-20T05:38:42.311448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:38:42.311456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2023-04-20T05:39:44.772852Z" modified="2023-04-20T05:39:44.772857Z" visited="2023-04-20T05:39:44.772853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:39:44.772854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run" added="2023-04-20T05:43:35.326212Z" modified="2023-04-20T05:43:35.326218Z" visited="2023-04-20T05:43:35.326214Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:43:35.326215Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/aatrox/T7/aatrox" added="2023-04-20T05:44:06.022324Z" modified="2023-04-20T05:44:06.022329Z" visited="2023-04-20T05:44:06.022325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:44:06.022326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/aatrox/T7/aatrox/.config" added="2023-04-20T05:44:32.498039Z" modified="2023-04-20T05:44:32.498044Z" visited="2023-04-20T05:44:32.498040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-20T05:44:32.498041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root" added="2023-05-06T02:29:55.281121Z" modified="2023-05-06T02:29:55.281126Z" visited="2023-05-06T02:29:55.281123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-06T02:29:55.281124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///lost+found" added="2023-05-09T01:31:51.958899Z" modified="2023-05-09T01:31:51.958904Z" visited="2023-05-09T01:31:51.958900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-09T01:31:51.958902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///dev" added="2023-05-09T01:32:58.552145Z" modified="2023-05-09T01:32:58.552154Z" visited="2023-05-09T01:32:58.552146Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-09T01:32:58.552151Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config" added="2023-05-13T03:36:00.374328Z" modified="2023-05-13T04:15:39.386780Z" visited="2023-05-13T03:36:00.374329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:15:39.386777Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.config/awesome" added="2023-05-13T03:47:59.296620Z" modified="2023-05-13T03:47:59.296626Z" visited="2023-05-13T03:47:59.296621Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:47:59.296623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads/pipes.sh-master.zip" added="2023-05-13T03:51:42.107636Z" modified="2023-05-13T03:51:55.394302Z" visited="2023-05-13T03:51:42.107637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-13T03:51:42.107639Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:51:55.394298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/pipes.sh-master" added="2023-05-13T03:53:52.199332Z" modified="2023-05-13T03:53:52.199337Z" visited="2023-05-13T03:53:52.199333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:53:52.199334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/my_sda1/truman" added="2023-05-13T03:58:32.908806Z" modified="2023-05-13T03:58:32.908819Z" visited="2023-05-13T03:58:32.908807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:58:32.908809Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/my_sda1/truman/.local" added="2023-05-13T03:58:34.358783Z" modified="2023-05-13T03:58:34.358789Z" visited="2023-05-13T03:58:34.358785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T03:58:34.358786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Downloads/discord-0.0.27.tar.gz" added="2023-05-13T04:03:56.947580Z" modified="2023-05-13T04:03:56.947591Z" visited="2023-05-13T04:03:56.947581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-05-13T04:03:56.947584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/my_sda1/$RECYCLE.BIN" added="2023-05-13T04:06:41.359610Z" modified="2023-05-13T04:06:41.359615Z" visited="2023-05-13T04:06:41.359611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:06:41.359613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/Desktop/upload" added="2023-05-13T04:15:43.925613Z" modified="2023-05-13T04:16:52.196537Z" visited="2023-05-13T04:15:43.925614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:16:52.196534Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.cache" added="2023-05-13T04:15:54.152930Z" modified="2023-05-13T04:15:54.152935Z" visited="2023-05-13T04:15:54.152931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:15:54.152932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.local" added="2023-05-13T04:16:02.465552Z" modified="2023-05-13T04:16:02.465557Z" visited="2023-05-13T04:16:02.465553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:16:02.465554Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aatrox/.local/share" added="2023-05-13T04:16:03.345313Z" modified="2023-05-13T04:16:03.345318Z" visited="2023-05-13T04:16:03.345314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-05-13T04:16:03.345315Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

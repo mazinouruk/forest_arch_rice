@@ -1,0 +1,105 @@
+[2023-04-15 19:22:27.024] [934] (engine.cpp:260): Created native Engine, time: Sat Apr 15 19:22:27 2023 EDT, logPath: /home/aatrox/.config/discord/0.0.26/modules/discord_voice/, logLevel: 2
+[2023-04-15 19:22:27.028] [934] (audio_processing_impl.cc:274): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2023-04-15 19:22:27.028] [934] (audio_processing_impl.cc:531): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 }, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, voice_detection: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_level_minimum: 0, analog_level_maximum: 255 }, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, level_estimator: { vad_probability_attack: 1, type: Rms, adjacent_speech_frames_threshold: 1, initial_saturation_margin_db: 20, extra_saturation_margin_db: 2 }, gain_applier: { adjacent_speech_frames_threshold: 1, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }}}, residual_echo_detector: { enabled: 1 }, level_estimation: { enabled: 0 }}
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:83): Create
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:91): CreateForTest
+[2023-04-15 19:22:27.029] [934] (audio_device_buffer.cc:64): AudioDeviceBuffer::ctor
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:129): AudioDeviceModuleImpl
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:133): CheckPlatform
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:144): current platform is Linux
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:163): CreatePlatformSpecificObjects
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:992): PlatformAudioLayer
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:299): PulseAudio support is enabled.
+[2023-04-15 19:22:27.029] [934] (audio_mixer_manager_pulse_linux.cc:57): AudioMixerManagerLinuxPulse created
+[2023-04-15 19:22:27.029] [934] (audio_device_pulse_linux.cc:81): AudioDeviceLinuxPulse created
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:304): Linux PulseAudio APIs will be utilized
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:345): AttachAudioBuffer
+[2023-04-15 19:22:27.029] [934] (audio_device_buffer.cc:180): SetRecordingSampleRate(0)
+[2023-04-15 19:22:27.029] [934] (audio_device_buffer.cc:186): SetPlayoutSampleRate(0)
+[2023-04-15 19:22:27.029] [934] (audio_device_buffer.cc:200): SetRecordingChannels(0)
+[2023-04-15 19:22:27.029] [934] (audio_device_buffer.cc:206): SetPlayoutChannels(0)
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:355): ActiveAudioLayer
+[2023-04-15 19:22:27.029] [934] (audio_processing_impl.cc:274): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2023-04-15 19:22:27.029] [934] (audio_engine.cpp:491): Creating audio engine: standard
+[2023-04-15 19:22:27.029] [934] (audio_device_impl.cc:365): Init
+[2023-04-15 19:22:27.044] [934] (audio_device_pulse_linux.cc:1610): failed to connect context, error=-1
+[2023-04-15 19:22:27.044] [934] (audio_device_pulse_linux.cc:144): failed to initialize PulseAudio
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:374): Audio device initialization failed.
+[2023-04-15 19:22:27.046] [934] (audio_coding.cpp:147): Using software Opus decoder
+[2023-04-15 19:22:27.046] [934] (audio_coding.cpp:164): Using software Opus encoder
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:896): RegisterAudioCallback
+[2023-04-15 19:22:27.046] [934] (audio_device_buffer.cc:81): RegisterAudioCallback
+[2023-04-15 19:22:27.046] [934] (audio_engine.cpp:187): Setting audio input device: 'default'
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:579): SetStereoRecording(1)
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:777): SetRecordingDevice(0)
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:567): StereoRecordingIsAvailable
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:579): SetStereoRecording(0)
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2023-04-15 19:22:27.046] [934] (audio_engine.cpp:204): Setting audio output device: 'default'
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:709): SetPlayoutDevice(0)
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:613): StereoPlayoutIsAvailable
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:625): SetStereoPlayout(0)
+[2023-04-15 19:22:27.046] [934] (audio_device_impl.cc:912): BuiltInAECIsAvailable
+[2023-04-15 19:22:27.046] [934] (audio_processing_impl.cc:531): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 }, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, voice_detection: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_level_minimum: 0, analog_level_maximum: 255 }, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, level_estimator: { vad_probability_attack: 1, type: Rms, adjacent_speech_frames_threshold: 1, initial_saturation_margin_db: 20, extra_saturation_margin_db: 2 }, gain_applier: { adjacent_speech_frames_threshold: 1, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }}}, residual_echo_detector: { enabled: 1 }, level_estimation: { enabled: 0 }}
+[2023-04-15 19:22:27.051] [934] (audio_processing_impl.cc:531): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 }, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, voice_detection: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_level_minimum: 0, analog_level_maximum: 255 }, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, level_estimator: { vad_probability_attack: 1, type: Rms, adjacent_speech_frames_threshold: 1, initial_saturation_margin_db: 20, extra_saturation_margin_db: 2 }, gain_applier: { adjacent_speech_frames_threshold: 1, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }}}, residual_echo_detector: { enabled: 1 }, level_estimation: { enabled: 0 }}
+[2023-04-15 19:22:27.051] [934] (agc_manager_direct.cc:69): [agc] GetMinMicLevel
+[2023-04-15 19:22:27.051] [934] (agc_manager_direct.cc:73): [agc] Using default min mic level: 12
+[2023-04-15 19:22:27.051] [934] (captured_audio_processor.cpp:119): SetNoiseCancellation: 0
+[2023-04-15 19:22:27.051] [934] (audio_processing_impl.cc:531): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 }, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, voice_detection: { enabled: 0 }, gain_controller1: { enabled: 1, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_level_minimum: 0, analog_level_maximum: 255 }, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, level_estimator: { vad_probability_attack: 1, type: Rms, adjacent_speech_frames_threshold: 1, initial_saturation_margin_db: 20, extra_saturation_margin_db: 2 }, gain_applier: { adjacent_speech_frames_threshold: 1, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }}}, residual_echo_detector: { enabled: 1 }, level_estimation: { enabled: 0 }}
+[2023-04-15 19:22:27.178] [934] (audio_engine.cpp:187): Setting audio input device: 'default'
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:827): RecordingIsInitialized
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:579): SetStereoRecording(1)
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:777): SetRecordingDevice(0)
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:567): StereoRecordingIsAvailable
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:579): SetStereoRecording(0)
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2023-04-15 19:22:27.178] [934] (audio_engine.cpp:204): Setting audio output device: 'default'
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:821): PlayoutIsInitialized
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:709): SetPlayoutDevice(0)
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:613): StereoPlayoutIsAvailable
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:625): SetStereoPlayout(0)
+[2023-04-15 19:22:27.178] [934] (audio_device_impl.cc:548): SetMicrophoneVolume(255)
+[2023-04-15 19:22:27.189] [913] (discord.cpp:636): JS console: ["%c[default]","[BUILD INFO] Release Channel: stable, Build Number: 189617, Version Hash: 5a59d26a28172e3414529c3dbc85f43d845f58e2"]
+[2023-04-15 19:22:27.575] [934] (engine.cpp:670): Engine::SetClipBufferLength(0)
+[2023-04-15 19:22:28.122] [913] (discord.cpp:636): JS console: ["%c[default]","[NATIVE INFO] host 0.0.26, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, build: null"]
+[2023-04-15 19:22:28.237] [913] (discord.cpp:636): JS console: ["%c[Spellchecker]","sh is not a valid locale."]
+[2023-04-15 19:22:28.532] [913] (discord.cpp:636): JS console: ["%c[Spellchecker]","Switching to en-US","(available)"]
+[2023-04-15 19:22:29.534] [913] (discord.cpp:636): JS console: ["Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.\nArguments: \n[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: 5/13/2022 10:00 -0800, _f: undefined, _strict: undefined, _locale: [object Object]\nError\n    at Function.createFromInputFallback (https://discordapp.com/assets/6b9fd512448164a3644d.js:1444:330)\n    at Bn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1470:696)\n    at Wn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1473:356)\n    at Zn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1473:199)\n    at Yn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1472:886)\n    at Kn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1473:697)\n    at zn (https://discordapp.com/assets/6b9fd512448164a3644d.js:1473:731)\n    at i (https://discordapp.com/assets/6b9fd512448164a3644d.js:1440:961)\n    at 408481 (https://discordapp.com/assets/03640ba1de6cd7ebaadb.js:21:328)\n    at l (https://discordapp.com/assets/010e4b78a82e5751915e.js:1:154)\n    at 558820 (https://discordapp.com/assets/03640ba1de6cd7ebaadb.js:14:185)\n    at l (https://discordapp.com/assets/010e4b78a82e5751915e.js:1:154)\n    at 308739 (https://discordapp.com/assets/03640ba1de6cd7ebaadb.js:2:330)\n    at l (https://discordapp.com/assets/010e4b78a82e5751915e.js:1:154)\n    at 173242 (https://discordapp.com/assets/c8aa52c8a532e7d2aff7.js:360:631)\n    at l (https://discordapp.com/assets/010e4b78a82e5751915e.js:1:154)\n    at 517409 (https://discordapp.com/assets/2ee09867df5e5af3d5f1.js:34:798)\n    at Function.l (https://discordapp.com/assets/010e4b78a82e5751915e.js:1:154)"]
+[2023-04-15 19:22:29.674] [913] (discord.cpp:636): JS console: ["%c[CloudSyncUtils]","CloudSync is not supported on this platform"]
+[2023-04-15 19:22:29.688] [913] (discord.cpp:636): JS console: ["[DEPRECATED] Please use `subscribeWithSelector` middleware"]
+[2023-04-15 19:22:30.053] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:30.053] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:30.054] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:33.056] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:33.167] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:33.167] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:34.730] [913] (discord.cpp:636): JS console: ["Initializing krisp module"]
+[2023-04-15 19:22:35.662] [913] (discord.cpp:636): JS console: ["%c[RPCServer:WSS]","Starting on 6463"]
+[2023-04-15 19:22:35.695] [913] (discord.cpp:636): JS console: ["%c[RPCServer:IPC]","Starting on /run/user/1000/discord-ipc-0"]
+[2023-04-15 19:22:36.169] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:36.170] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:36.170] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:39.173] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:39.283] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:39.284] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:41.702] [913] (discord.cpp:636): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2023-04-15 19:22:42.286] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:42.397] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:42.398] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:45.401] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:45.514] [935] (device_info_linux.cc:45): NumberOfDevices
+[2023-04-15 19:22:45.514] [935] (device_info_linux.cc:78): GetDeviceName
+[2023-04-15 19:22:46.815] [913] (discord.cpp:636): JS console: ["%c[LoginQRSocket]","[5115ms] got hello, auth timeout=130663ms"]
+[2023-04-15 19:22:47.312] [913] (discord.cpp:636): JS console: ["%c[LoginQRSocket]","[5612ms] connected, handshaking with fingerprint: yYyprt08Vx98HUQZPIbDwlHbDauX4nmHiD6f-Kb_IEY"]
+[2023-04-15 19:22:47.355] [913] (discord.cpp:636): JS console: ["%c[LoginQRSocket]","[5655ms] computed nonce proof"]
+[2023-04-15 19:22:47.390] [913] (discord.cpp:636): JS console: ["%c[LoginQRSocket]","[5690ms] handshake complete awaiting remote auth."]

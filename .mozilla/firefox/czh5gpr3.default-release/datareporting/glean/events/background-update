@@ -1,0 +1,2 @@
+{"timestamp":303333,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","enrollment_id":"6897f477-9cf5-4c63-8a69-c37b373f9d1f","experiment":"updated-import-infrequent-rollout-make-yourself-at-home-copy"}}
+{"timestamp":1206169,"category":"nimbus_events","name":"exposure","extra":{"experiment":"awesome-bar-result-menu-rollout-phase-1","feature_id":"urlbar","branch":"control-rollout"}}

@@ -1,0 +1,41 @@
+[Configure]
+Height 768=401
+Width 1366=640
+
+[DialogAddView]
+Height 768=302
+Width 1366=274
+
+[DialogSelectMaster]
+Height 768=308
+Width 1366=274
+
+[Global]
+ConfigVersion=3
+DefaultCardOnStart=ALSA.HDA_Intel_PCH.1.default
+MasterMixer=ALSA::C-Media(R)_Audio:1
+MasterMixerDevice=PCM:0
+Menubar=false
+MixerIgnoreExpression=Modem
+Position=10,38
+Size=666,718
+
+[Profiles]
+ALSA::C-Media(R)_Audio:1=
+ALSA::HDA_Intel_PCH:1=
+MPRIS2::Playback_Streams:1=MPRIS2.default
+
+[View.ALSA.C-Media(R)_Audio.1.default.ALSA::C-Media(R)_Audio:1.Mic:0]
+Split=false
+
+[View.ALSA.C-Media(R)_Audio.1.default.ALSA::C-Media(R)_Audio:1.PCM:0]
+Split=false
+
+[View.ALSA.HDA_Intel_PCH.1.default.ALSA::HDA_Intel_PCH:1.IEC958:0]
+Split=false
+
+[View.ALSA.HDA_Intel_PCH.1.default.ALSA::HDA_Intel_PCH:1.IEC958:1]
+Split=false
+
+[View.ALSA.HDA_Intel_PCH.1.default.ALSA::HDA_Intel_PCH:1.IEC958:2]
+Split=false

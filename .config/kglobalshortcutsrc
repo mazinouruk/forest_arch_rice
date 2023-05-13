@@ -1,0 +1,14 @@
+[kmix]
+_k_friendly_name=KMix
+decrease-volume-Mic@C-Media(R) Audio=none,none,Decrease volume of Mic on C-Media(R) Audio
+decrease-volume-PCM@C-Media(R) Audio=none,,Decrease volume of PCM on C-Media(R) Audio
+decrease_volume=Volume Down,Volume Down,Decrease Volume
+increase-volume-Mic@C-Media(R) Audio=none,none,Increase volume of Mic on C-Media(R) Audio
+increase-volume-PCM@C-Media(R) Audio=none,,Increase volume of PCM on C-Media(R) Audio
+increase_volume=Volume Up,Volume Up,Increase Volume
+mute=Volume Mute,Volume Mute,Mute
+toggle-mute-IEC958 2@HDA Intel PCH=none,none,Mute IEC958 2 on HDA Intel PCH
+toggle-mute-IEC958 3@HDA Intel PCH=none,none,Mute IEC958 3 on HDA Intel PCH
+toggle-mute-IEC958@HDA Intel PCH=none,none,Mute IEC958 on HDA Intel PCH
+toggle-mute-Mic@C-Media(R) Audio=none,none,Mute Mic on C-Media(R) Audio
+toggle-mute-PCM@C-Media(R) Audio=none,,Mute PCM on C-Media(R) Audio

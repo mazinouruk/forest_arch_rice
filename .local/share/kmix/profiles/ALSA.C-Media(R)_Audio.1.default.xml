@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soundcard driver="ALSA" version="0:0" name="*" type="*" generation="2">
+    <profile id="ALSA.C-Media(R)_Audio.1.default" name="C-Media(R) Audio"/>
+    <product vendor="Any Vendor" name="Generic Soundcard"/>
+    <control id="^Master:0$" subcontrols="*" show="simple"/>
+    <control id="^Front:0$" subcontrols="*" show="simple"/>
+    <control id="^Surround:0$" subcontrols="*" show="simple"/>
+    <control id="^Center:0$" subcontrols="*" show="simple"/>
+    <control id="^LFE:0$" subcontrols="*" show="simple"/>
+    <control id="^PCM:0$" subcontrols="*" show="simple"/>
+    <control id="^CD:0$" subcontrols="*" show="simple"/>
+    <control id="^Headphone:0$" subcontrols="*" show="simple"/>
+    <control id="^Mic.*:0$" subcontrols="*" show="simple"/>
+    <control id="^DAC:0$" subcontrols="*" show="simple"/>
+    <control id="^ADC:0$" subcontrols="*" show="simple"/>
+    <control id="^.*$" subcontrols="*" show="extended" mandatory="true"/>
+</soundcard>
